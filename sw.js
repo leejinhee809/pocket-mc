@@ -1,6 +1,6 @@
 // ===== 귀요미 용돈 기록장 서비스워커 =====
 // 앱을 고친 뒤 다시 올릴 때는 아래 버전 숫자를 하나 올려 주세요. (v1 → v2)
-const CACHE_NAME = 'pocket-money-v1';
+const CACHE_NAME = 'pocket-money-v2';
 
 // 처음 설치할 때 미리 저장해 둘 내 파일들 (오프라인용)
 const CORE_FILES = [
