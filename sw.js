@@ -1,15 +1,15 @@
 // ===== 귀요미 용돈 기록장 서비스워커 =====
 // 앱을 고친 뒤 다시 올릴 때는 아래 버전 숫자를 하나 올려 주세요. (v1 → v2)
-const CACHE_NAME = 'pocket-money-v2';
+const CACHE_NAME = 'pocket-money-v3';
 
 // 처음 설치할 때 미리 저장해 둘 내 파일들 (오프라인용)
 const CORE_FILES = [
   './',
   './index.html',
   './manifest.json',
-  './icons/icon-192.png',
-  './icons/icon-512.png',
-  './icons/apple-touch-icon.png'
+  './icons/capy-icon-192.png',
+  './icons/capy-icon-512.png',
+  './icons/capy-apple-touch-icon.png'
 ];
 
 // 1) 설치: 핵심 파일을 캐시에 저장
